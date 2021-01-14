@@ -71,7 +71,11 @@ $ sudo docker-compose up
   <tr>
     </td>
       <td align="center"><a href="https://github.com/henriquehsilva"><img src="https://avatars3.githubusercontent.com/u/40860601?s=460&u=a31035b210c308987ec3830019186abbab646a00&v=4" width="100px;" alt=""/><br /><sub><b>Henrique Silva </b></sub></a><br />
-    <small>Machine Learning Engineering</small>
+    <small>Software Engineering</small>
+    </td>
+    </td>
+      <td align="center"><a href="https://github.com/rafamaciel"><img src="https://avatars2.githubusercontent.com/u/4837047?s=460&u=8280789e731dd2f356f8a2d7bad2344701c37f2e&v=4" width="100px;" alt=""/><br /><sub><b>Rafael B. Maciel </b></sub></a><br />
+    <small>Project Manager</small>
     </td>
   </tr>
 </table>
